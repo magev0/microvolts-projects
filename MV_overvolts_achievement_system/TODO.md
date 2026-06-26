@@ -1,0 +1,7 @@
+- [ ] Port to Typescript for null safety
+- [ ] Write unit tests 
+- [ ] Refactor Services and controllers
+- [ ] Secure code review
+- [ ] Automate the setup process and containerize the project
+- [ ] Write UI/Fronted  (currently stuck with server-side rendering using  EJS)
+- [ ]  Add item generation script for the lootbox system

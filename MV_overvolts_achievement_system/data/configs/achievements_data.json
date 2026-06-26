@@ -1,0 +1,2165 @@
+{
+  "achievements": [
+    {
+      "name": "Level Up 10",
+      "achievementSlug": "level-up-10",
+      "description": "Reach level 10",
+      "requirements": {
+        "level": 10
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "name": "Level Up 20",
+      "achievementSlug": "level-up-20",
+      "description": "Reach level 20",
+      "requirements": {
+        "level": 20
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Level Up 30",
+      "achievementSlug": "level-up-30",
+      "description": "Reach level 30",
+      "requirements": {
+        "level": 30
+      },
+      "rewards": [
+        {
+          "itemId": 4600090,
+          "itemName": "9000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308108,
+          "itemName": "2 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 40",
+      "achievementSlug": "level-up-40",
+      "description": "Reach level 40",
+      "requirements": {
+        "level": 40
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308108,
+          "itemName": "2 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 50",
+      "achievementSlug": "level-up-50",
+      "description": "Reach level 50",
+      "requirements": {
+        "level": 50
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 4306009,
+          "itemName": "3 Coupons"
+        },
+        {
+          "itemId": 4383140,
+          "itemName": "Green Wreath Crown (Remake)"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 60",
+      "achievementSlug": "level-up-60",
+      "description": "Reach level 60",
+      "requirements": {
+        "level": 60
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 4306009,
+          "itemName": "3 Coupons"
+        },
+        {
+          "itemId": 4382950,
+          "itemName": "Silver Wreath Crown"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 70",
+      "achievementSlug": "level-up-70",
+      "description": "Reach level 70",
+      "requirements": {
+        "level": 70
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 4306009,
+          "itemName": "3 Coupons"
+        },
+        {
+          "itemId": 4382950,
+          "itemName": "Golden Wreath Crown"
+        },
+        {
+          "itemId": 5336562,
+          "itemName": "Coupon Box"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 80",
+      "achievementSlug": "level-up-80",
+      "description": "Reach level 80",
+      "requirements": {
+        "level": 80
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 4306009,
+          "itemName": "3 Coupons"
+        },
+        {
+          "itemId": 5336562,
+          "itemName": "Coupon Box"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 90",
+      "achievementSlug": "level-up-90",
+      "description": "Reach level 90",
+      "requirements": {
+        "level": 90
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 5336562,
+          "itemName": "Coupon Box"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 100",
+      "achievementSlug": "level-up-100",
+      "description": "Reach level 100",
+      "requirements": {
+        "level": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 4308109,
+          "itemName": "3 Coins"
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 5336562,
+          "itemName": "Coupon Box"
+        }
+      ]
+    },
+    {
+      "name": "Level Up 105",
+      "achievementSlug": "level-up-105",
+      "description": "Reach level 105",
+      "requirements": {
+        "level": 105
+      },
+      "rewards": [
+        {
+          "itemId": 4601000,
+          "itemName": "100000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 15
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4306009,
+          "itemName": "3 Coupons"
+        },
+        {
+          "itemId": 5336562,
+          "itemName": "Coupon Box"
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 1",
+      "achievementSlug": "sharpshooter-1",
+      "description": "Achieve 100 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 2",
+      "achievementSlug": "sharpshooter-2",
+      "description": "Achieve 500 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 3",
+      "achievementSlug": "sharpshooter-3",
+      "description": "Achieve 1500 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 4",
+      "achievementSlug": "sharpshooter-4",
+      "description": "Achieve 3000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 5",
+      "achievementSlug": "sharpshooter-5",
+      "description": "Achieve 5000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 6",
+      "achievementSlug": "sharpshooter-6",
+      "description": "Achieve 9000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 7",
+      "achievementSlug": "sharpshooter-7",
+      "description": "Achieve 15000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 8",
+      "achievementSlug": "sharpshooter-8",
+      "description": "Achieve 30000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 9",
+      "achievementSlug": "sharpshooter-9",
+      "description": "Achieve 50000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 10",
+      "achievementSlug": "sharpshooter-10",
+      "description": "Achieve 100000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 11",
+      "achievementSlug": "sharpshooter-11",
+      "description": "Achieve 200000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Sharpshooter - 12",
+      "achievementSlug": "sharpshooter-12",
+      "description": "Achieve 500000 kills with Rifle.",
+      "requirements": {
+        "RifleKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 1",
+      "achievementSlug": "spray-pray-1",
+      "description": "Achieve 100 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 2",
+      "achievementSlug": "spray-pray-2",
+      "description": "Achieve 500 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 3",
+      "achievementSlug": "spray-pray-3",
+      "description": "Achieve 1500 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 4",
+      "achievementSlug": "spray-pray-4",
+      "description": "Achieve 3000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 5",
+      "achievementSlug": "spray-pray-5",
+      "description": "Achieve 5000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 6",
+      "achievementSlug": "spray-pray-6",
+      "description": "Achieve 9000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 7",
+      "achievementSlug": "spray-pray-7",
+      "description": "Achieve 15000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 8",
+      "achievementSlug": "spray-pray-8",
+      "description": "Achieve 30000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 9",
+      "achievementSlug": "spray-pray-9",
+      "description": "Achieve 50000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 10",
+      "achievementSlug": "spray-pray-10",
+      "description": "Achieve 100000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 11",
+      "achievementSlug": "spray-pray-11",
+      "description": "Achieve 200000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Spray & Pray - 12",
+      "achievementSlug": "spray-pray-12",
+      "description": "Achieve 500000 kills with Shotgun.",
+      "requirements": {
+        "ShotgunKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 1",
+      "achievementSlug": "eagle-eye-1",
+      "description": "Achieve 100 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 2",
+      "achievementSlug": "eagle-eye-2",
+      "description": "Achieve 500 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 3",
+      "achievementSlug": "eagle-eye-3",
+      "description": "Achieve 1500 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 4",
+      "achievementSlug": "eagle-eye-4",
+      "description": "Achieve 3000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 5",
+      "achievementSlug": "eagle-eye-5",
+      "description": "Achieve 5000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 6",
+      "achievementSlug": "eagle-eye-6",
+      "description": "Achieve 9000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 7",
+      "achievementSlug": "eagle-eye-7",
+      "description": "Achieve 15000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 8",
+      "achievementSlug": "eagle-eye-8",
+      "description": "Achieve 30000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 9",
+      "achievementSlug": "eagle-eye-9",
+      "description": "Achieve 50000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 10",
+      "achievementSlug": "eagle-eye-10",
+      "description": "Achieve 100000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 11",
+      "achievementSlug": "eagle-eye-11",
+      "description": "Achieve 200000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Eagle Eye - 12",
+      "achievementSlug": "eagle-eye-12",
+      "description": "Achieve 500000 kills with Sniper.",
+      "requirements": {
+        "SniperKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 1",
+      "achievementSlug": "rocket-rider-1",
+      "description": "Achieve 100 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 2",
+      "achievementSlug": "rocket-rider-2",
+      "description": "Achieve 500 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 3",
+      "achievementSlug": "rocket-rider-3",
+      "description": "Achieve 1500 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 4",
+      "achievementSlug": "rocket-rider-4",
+      "description": "Achieve 3000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 5",
+      "achievementSlug": "rocket-rider-5",
+      "description": "Achieve 5000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 6",
+      "achievementSlug": "rocket-rider-6",
+      "description": "Achieve 9000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 7",
+      "achievementSlug": "rocket-rider-7",
+      "description": "Achieve 15000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 8",
+      "achievementSlug": "rocket-rider-8",
+      "description": "Achieve 30000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 9",
+      "achievementSlug": "rocket-rider-9",
+      "description": "Achieve 50000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 10",
+      "achievementSlug": "rocket-rider-10",
+      "description": "Achieve 100000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 11",
+      "achievementSlug": "rocket-rider-11",
+      "description": "Achieve 200000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Rocket Rider - 12",
+      "achievementSlug": "rocket-rider-12",
+      "description": "Achieve 500000 kills with Bazooka.",
+      "requirements": {
+        "BazookaKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 1",
+      "achievementSlug": "bomba-1",
+      "description": "Achieve 100 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 2",
+      "achievementSlug": "bomba-2",
+      "description": "Achieve 500 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 3",
+      "achievementSlug": "bomba-3",
+      "description": "Achieve 1500 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 4",
+      "achievementSlug": "bomba-4",
+      "description": "Achieve 3000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 5",
+      "achievementSlug": "bomba-5",
+      "description": "Achieve 5000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 6",
+      "achievementSlug": "bomba-6",
+      "description": "Achieve 9000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 7",
+      "achievementSlug": "bomba-7",
+      "description": "Achieve 15000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 8",
+      "achievementSlug": "bomba-8",
+      "description": "Achieve 30000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 9",
+      "achievementSlug": "bomba-9",
+      "description": "Achieve 50000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 10",
+      "achievementSlug": "bomba-10",
+      "description": "Achieve 100000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 11",
+      "achievementSlug": "bomba-11",
+      "description": "Achieve 200000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Bomba - 12",
+      "achievementSlug": "bomba-12",
+      "description": "Achieve 500000 kills with Grenade.",
+      "requirements": {
+        "GrenadeKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 1",
+      "achievementSlug": "killing-spree-1",
+      "description": "Achieve 100 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 2",
+      "achievementSlug": "killing-spree-2",
+      "description": "Achieve 500 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 3",
+      "achievementSlug": "killing-spree-3",
+      "description": "Achieve 1500 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 4",
+      "achievementSlug": "killing-spree-4",
+      "description": "Achieve 3000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 5",
+      "achievementSlug": "killing-spree-5",
+      "description": "Achieve 5000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 6",
+      "achievementSlug": "killing-spree-6",
+      "description": "Achieve 9000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 7",
+      "achievementSlug": "killing-spree-7",
+      "description": "Achieve 15000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 8",
+      "achievementSlug": "killing-spree-8",
+      "description": "Achieve 30000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 9",
+      "achievementSlug": "killing-spree-9",
+      "description": "Achieve 50000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 10",
+      "achievementSlug": "killing-spree-10",
+      "description": "Achieve 100000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 11",
+      "achievementSlug": "killing-spree-11",
+      "description": "Achieve 200000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Killing Spree - 12",
+      "achievementSlug": "killing-spree-12",
+      "description": "Achieve 500000 kills with Gatling.",
+      "requirements": {
+        "GatlingKills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 1",
+      "achievementSlug": "total-slayer-1",
+      "description": "Achieve 100 total kills.",
+      "requirements": {
+        "Kills": 100
+      },
+      "rewards": [
+        {
+          "itemId": 4600001,
+          "itemName": "100 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 2",
+      "achievementSlug": "total-slayer-2",
+      "description": "Achieve 500 total kills.",
+      "requirements": {
+        "Kills": 500
+      },
+      "rewards": [
+        {
+          "itemId": 4600005,
+          "itemName": "500 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 3",
+      "achievementSlug": "total-slayer-3",
+      "description": "Achieve 1500 total kills.",
+      "requirements": {
+        "Kills": 1500
+      },
+      "rewards": [
+        {
+          "itemId": 4600010,
+          "itemName": "1000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 4",
+      "achievementSlug": "total-slayer-4",
+      "description": "Achieve 3000 total kills.",
+      "requirements": {
+        "Kills": 3000
+      },
+      "rewards": [
+        {
+          "itemId": 4600020,
+          "itemName": "2000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 5",
+      "achievementSlug": "total-slayer-5",
+      "description": "Achieve 5000 total kills.",
+      "requirements": {
+        "Kills": 5000
+      },
+      "rewards": [
+        {
+          "itemId": 4600030,
+          "itemName": "3000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 6",
+      "achievementSlug": "total-slayer-6",
+      "description": "Achieve 9000 total kills.",
+      "requirements": {
+        "Kills": 9000
+      },
+      "rewards": [
+        {
+          "itemId": 4600040,
+          "itemName": "4000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 7",
+      "achievementSlug": "total-slayer-7",
+      "description": "Achieve 15000 total kills.",
+      "requirements": {
+        "Kills": 15000
+      },
+      "rewards": [
+        {
+          "itemId": 4600050,
+          "itemName": "5000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 8
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 8",
+      "achievementSlug": "total-slayer-8",
+      "description": "Achieve 30000 total kills.",
+      "requirements": {
+        "Kills": 30000
+      },
+      "rewards": [
+        {
+          "itemId": 4600060,
+          "itemName": "6000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 9
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 9",
+      "achievementSlug": "total-slayer-9",
+      "description": "Achieve 50000 total kills.",
+      "requirements": {
+        "Kills": 50000
+      },
+      "rewards": [
+        {
+          "itemId": 4600070,
+          "itemName": "7000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 10",
+      "achievementSlug": "total-slayer-10",
+      "description": "Achieve 100000 total kills.",
+      "requirements": {
+        "Kills": 100000
+      },
+      "rewards": [
+        {
+          "itemId": 4600100,
+          "itemName": "10000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 11",
+      "achievementSlug": "total-slayer-11",
+      "description": "Achieve 200000 total kills.",
+      "requirements": {
+        "Kills": 200000
+      },
+      "rewards": [
+        {
+          "itemId": 4600200,
+          "itemName": "20000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    },
+    {
+      "name": "Total Slayer - 12",
+      "achievementSlug": "total-slayer-12",
+      "description": "Achieve 500000 total kills.",
+      "requirements": {
+        "Kills": 500000
+      },
+      "rewards": [
+        {
+          "itemId": 4600500,
+          "itemName": "50000 MP"
+        },
+        {
+          "itemId": 4305006,
+          "itemName": "1,000 Battery",
+          "quantity": 10
+        },
+        {
+          "itemId": 5336100,
+          "itemName": "Random Coupon BOX(P)"
+        },
+        {
+          "itemId": 4308102,
+          "itemName": "5 Coins"
+        },
+        {
+          "itemId": 4308103,
+          "itemName": "10 Coins"
+        }
+      ]
+    }
+  ]
+}
