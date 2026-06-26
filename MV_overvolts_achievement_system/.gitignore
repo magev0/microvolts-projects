@@ -1,8 +1,9 @@
 node_modules/
 .env
 *.log
-data/items.transformed.json
-data/SRC_JSON_FILES/
+*/.env
+**/.env
+
 data/icon/
 .obsidian/
 ().md

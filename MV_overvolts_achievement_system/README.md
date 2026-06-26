@@ -26,7 +26,7 @@ I'm no longer actively working on this project as I haven't had the time or moti
 - Achievement system
 - daily playtime chest
 
-### Achievement GUI Status
+### Web Achievements GUI Status
 The GUI was built with EJS, which is a server-side templating engine. it's not designed for building interactive UIs. There's no component model, no layout system, and managing CSS at scale with it is painful. The result is what you'd expect: scaling is off and it's not responsive. It works well enough to hit endpoints and verify backend behavior, but that's the limit.
 
 If you want a proper interface, write a separate frontend using a real framework (React, Vue, Svelte, pick one). The API is fully functional, so it's just a matter of connecting it.
